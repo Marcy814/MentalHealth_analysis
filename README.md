@@ -53,5 +53,5 @@ Les bibliothèques Python utilisées incluent :
 2. Exécuter le notebook Jupyter.
 
 ## Auteurs
-Projet réalisé par Marcy Audrey dans le cadre d'un travail pratique universitaire.
+Projet réalisé par Marcy Audrey .
 
